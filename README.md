@@ -1,2 +1,2 @@
 # Nexys-A7-100T-Modular-7seg-Config-Counter
-A Verilog project providing precise control over on-screen displays, with variable counting speeds, multiple button-operated display masking capabilities, etc.
+A Verilog project providing precise control over on-screen displays, with variable counting speeds, button-operated display masking capabilities, etc.
